@@ -42,7 +42,7 @@ The notebook will generate:
 - Visualizations of performance trends
 
 ## Notes
-- Ensure you have a stable internet connection when running `data_aq.py` as it scrapes live data sources.
+- Ensure you have a stable internet connection when running `data_aq.py` as it scrapes live data sources (pybaseball and MLB StatsAPI).
 - The scripts assume your Python version is 3.9+.
 
 ---
